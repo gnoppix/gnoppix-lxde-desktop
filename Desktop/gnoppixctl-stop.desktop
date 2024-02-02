@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Stop Anonymity
+Comment=Your real IP is public 
+Encoding=UTF-8
+Exec=sudo gnoppixctl stop
+Icon=/usr/share/icons/gnoppix/emblem-gnoppix.svg
+StartupNotify=false
+Terminal=true
+Type=Application
+X-Gnoppix-Package=gnoppixctl
+Path=

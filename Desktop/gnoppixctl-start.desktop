@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Start Anonymity
+Comment=Your real IP is now hidden 
+Encoding=UTF-8
+Exec=sudo gnoppixctl start
+Icon=/usr/share/icons/gnoppix/emblem-gnoppix.svg
+StartupNotify=true
+Terminal=true
+Type=Application
+X-Gnoppix-Package=gnoppixctl
+GenericName=Set global security 
